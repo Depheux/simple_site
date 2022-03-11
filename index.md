@@ -1,8 +1,8 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: VTECL
+tagline: Intelligence artificielle et éducation
+description: Veille sur l'intelligence artificielle dans l'éducation
 ---
 
 [Github Pages](https://pages.github.com) provide a simple way to make a
