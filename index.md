@@ -31,3 +31,10 @@ Il est également intéressant de noter qu'il y a beaucoup de recherches
 sur l'inclusion de la réalité augmentée et virtuelle dans l'éducation. 
 Ce pourrait être la prochaine tendance après l'utilisation de l'IA.
 Les différentes techniques reprennent souvent des charactéristiques des précédentes : par exemple de la gamification dans l'adaptive learning.
+
+Voici des exemples d'utilisation de l'intelligence artificielle dans l'éducation :
+[Adaptive learning](/pages/adaptive_learning.html)
+[Outils pour les professeurs](/pages/prof.html)
+[Outils pour les élèves](/pages/eleves.html)
+
+L'utilisation de ces outils et de l'IA dans l'éducation présentent toutefois des [limites](/pages/limites.html).

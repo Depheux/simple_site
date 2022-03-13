@@ -3,57 +3,35 @@ layout: page
 title: Outils pour les professeurs
 ---
 
-To test your site locally, you'll need
+L'intelligence artificielle est également utilisée sous de nombreuses formes pour faciliter le travail du formateur.
 
-- [ruby](https://www.ruby-lang.org/en/)
-- the [github-pages](https://github.com/github/pages-gem) gem
+### Détection de plagiat
 
-### Installing ruby
+La détection de plagiat est de plus en plus implémentée dans le système scolaire. 
+Il est important de pouvoir vérifier qu'un devoir soumis par un élève a bien été créé par lui même et qu'il a compris le sujet.
+Les algorithmes de détection de plagiat vont donc analyser les rendus des élèves et les comparer entre eux et avec ce qui existe déjà.
+L'intelligence artificielle intervient dans le cadre où une simple comparaison mot à mot ne suffit pas lorsqu'on reformule simplement les phrases copié-collées. 
+L'IA pourra comparer plus en profondeur les reformulations synonymes de plagiat ou non.
 
-There are
-[lots of different ways to install ruby](https://www.ruby-lang.org/en/installation/).
+![Plagiat](/plagiat.png)
 
+### Détection de fraude
 
-In Mac OS X, older versions of ruby will already be installed.  But I
-use the [Ruby Version Manager (RVM)](https://rvm.io/) to have a more
-recent version.  You could also use [Homebrew](https://brew.sh/).
+Tout comme le plagiat, il est important de vérifier que les élèves ne trichent pas lors de leurs exercices et évaluations.
+Les outils qui détectent cela se basent sur les données des étudiants qui permettent d'établir un modèle de prédiction de leurs performances.
+Si le résultat réel est bien meilleur que ce que l'algorithme prédisait, c'est qu'il pourrait y avoir tricherie.
 
-In Windows, use [RubyInstaller](https://rubyinstaller.org/). (In most
-of this tutorial, I've assumed you're using a Mac or some flavor of
-Unix. It's possible that none of this was usable for Windows
-folks. Sorry!)
+### Correction automatique
 
+Toujours dans l'optique d'améliorer et faciliter l'évaluation des travaux rendus par les apprenants, 
+il est possible d'employer un algorithme qui aura appris de l'enseignant pour le remplacer dans la correction.
+En effet, dans les écoles, les professeurs utilisent 40% de leurs temps pour noter les copies, planifier leurs leçons et faire du travail administratif (d'après un sondage de Telegraph). 
+Automatiser certaines de ces tâches, notamment la planification avec l'adaptative learning ou la notation permet un gain de temps considérable.
 
-### Installing the github-pages gem
+### Décrochage scolaire
 
-Run the following command:
-
-    gem install github-pages
-
-This will install the `github-pages` gem and all dependencies
-(including [jekyll](https://jekyllrb.com/)).
-
-Later, to update the gem, type:
-
-    gem update github-pages
-
-
-### Testing your site locally
-
-To construct and test your site locally, go into the directory and
-type
-
-    jekyll build
-
-This will create (or modify) a `_site/` directory, containing
-everything from `assets/`, and then the `index.md` and all
-`pages/*.md` files, converted to html. (So there'll be
-`_site/index.html` and the various `_site/pages/*.html`.)
-
-Type the following in order to &ldquo;serve&rdquo; the site.
-This will first run `build`, and so it does _not_ need to be
-preceded by `jekyll build`.
-
-    jekyll serve
-
-Now open your browser and go to <http://localhost:4000>
+Dans un contexte d'épidémie avec le coronavirus, il y a eu une augmentation de décrochages scolaires lors du passage des formations en distanciel.
+Un enjeu pour les professeurs est d'éviter ces décrochages et de remotiver les étudiants.
+Pour ce faire, il est possible d'utiliser des algorithmes qui vont apprendre à détecter les motifs récurrents liés à un décrochage.
+On privilégiera un algorithme qui sélectionne trop de personnes comme étant à risque, plutôt que trop peu, afin d'en identifier le plus possible. 
+En appliquant régulièrement cet algorithme, il sera plus simple de repérer les personnes en difficultés qui auraient besoin d'aide pour ne pas abandonner la formation.
