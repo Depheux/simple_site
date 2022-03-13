@@ -5,6 +5,16 @@ tagline: Intelligence artificielle et éducation
 description: Veille sur l'intelligence artificielle dans l'éducation
 ---
 
+Le domaine de l'éducation est aujourd'hui en plein développement. 
+Il est en effet capital de se former à la fois à l'école, mais également en entreprise, 
+afin d'acquérir de nouvelles compétences et rester compétitif sur le marché de l'emploi.
+C'est pourquoi l'optimisation des méthodes de formations est un enjeu majeur de l'éducation : 
+comment apprendre plus vite, mieux et pour plus longtemps ?
+
+Nous pouvons par exemple illustrer l'évolution de l'intérêt porté au domaine de l'éducation 
+via le budget de l'Education Nationnale en France :
+![Budget](/budget.png)
+
 [Github Pages](https://pages.github.com) provide a simple way to make a
 website using
 [Markdown](https://daringfireball.net/projects/markdown/) and
