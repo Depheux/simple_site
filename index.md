@@ -1,8 +1,6 @@
 ---
 layout: page
-title: VTECL
-tagline: Intelligence artificielle et éducation
-description: Veille sur l'intelligence artificielle dans l'éducation
+title: Introduction
 ---
 
 Le domaine de l'éducation est aujourd'hui en plein développement. 
@@ -32,11 +30,3 @@ L'intelligence artificielle vise à simuler l'intelligence humaine et peut ainsi
 Il est également intéressant de noter qu'il y a beaucoup de recherches 
 sur l'inclusion de la réalité augmentée et virtuelle dans l'éducation. 
 Ce pourrait être la prochaine tendance après l'utilisation de l'IA.
-
-- [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html)

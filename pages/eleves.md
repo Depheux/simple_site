@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Making a jekyll-free site
-description: Making a GitHub Pages site without Jekyll.
+title: Outils pour les élèves
 ---
 
 If you want a plain website without all of this
