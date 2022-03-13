@@ -30,3 +30,4 @@ L'intelligence artificielle vise à simuler l'intelligence humaine et peut ainsi
 Il est également intéressant de noter qu'il y a beaucoup de recherches 
 sur l'inclusion de la réalité augmentée et virtuelle dans l'éducation. 
 Ce pourrait être la prochaine tendance après l'utilisation de l'IA.
+Les différentes techniques reprennent souvent des charactéristiques des précédentes : par exemple de la gamification dans l'adaptive learning.
