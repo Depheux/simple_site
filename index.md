@@ -13,7 +13,8 @@ comment apprendre plus vite, mieux et pour plus longtemps ?
 
 Nous pouvons par exemple illustrer l'évolution de l'intérêt porté au domaine de l'éducation 
 via le budget de l'Education Nationnale en France :
-![Budget](/budget.png)
+
+[Budget](/budget.png)
 
 [Github Pages](https://pages.github.com) provide a simple way to make a
 website using
