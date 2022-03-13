@@ -32,6 +32,6 @@ Automatiser certaines de ces tâches, notamment la planification avec l'adaptati
 
 Dans un contexte d'épidémie avec le coronavirus, il y a eu une augmentation de décrochages scolaires lors du passage des formations en distanciel.
 Un enjeu pour les professeurs est d'éviter ces décrochages et de remotiver les étudiants.
-Pour ce faire, il est possible d'utiliser des algorithmes qui vont apprendre à détecter les motifs récurrents liés à un décrochage.
+Pour ce faire, il est possible d'utiliser des algorithmes qui vont apprendre à détecter les motifs récurrents liés à un décrochage (c'est du machine learning).
 On privilégiera un algorithme qui sélectionne trop de personnes comme étant à risque, plutôt que trop peu, afin d'en identifier le plus possible. 
 En appliquant régulièrement cet algorithme, il sera plus simple de repérer les personnes en difficultés qui auraient besoin d'aide pour ne pas abandonner la formation.
