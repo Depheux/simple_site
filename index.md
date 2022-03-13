@@ -38,3 +38,5 @@ Voici des exemples d'utilisation de l'intelligence artificielle dans l'éducatio
 [Outils pour les élèves](/pages/eleves.html)
 
 L'utilisation de ces outils et de l'IA dans l'éducation présentent toutefois des [limites](/pages/limites.html).
+
+Les sources qui ont été utilisées sont disponibles ici : [https://www.diigo.com/user/depheux](https://www.diigo.com/user/depheux). 
